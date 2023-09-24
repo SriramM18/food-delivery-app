@@ -1,0 +1,40 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "Creating my own creat react app ",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.21.3",
+    "@babel/preset-env": "^7.20.2",
+    "@babel/preset-react": "^7.18.6",
+    "@testing-library/react": "^14.0.0",
+    "@types/google.maps": "^3.52.3",
+    "babel-jest": "^29.5.0",
+    "babel-plugin-transform-remove-console": "^6.9.4",
+    "jest": "^29.5.0",
+    "parcel": "^2.8.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "@reduxjs/toolkit": "^1.9.3",
+    "jest-environment-jsdom": "^29.5.0",
+    "react": "^18.2.0",
+    "react-cool-onclickoutside": "^1.7.0",
+    "react-dom": "^18.2.0",
+    "react-icons": "^4.8.0",
+    "react-loading": "^2.0.3",
+    "react-redux": "^8.0.5",
+    "react-router-dom": "^6.9.0",
+    "use-places-autocomplete": "^4.0.0",
+    "uuidv4": "^6.2.13"
+  },
+  "browsersList": [
+    "last 2 versions"
+  ]
+}
