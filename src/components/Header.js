@@ -10,7 +10,7 @@ const Title = () => {
         alt="logo"
         src="https://icon-library.com/images/food-app-icon/food-app-icon-0.jpg"
       />
-      <p className="logo-text colblack">Go Foods.</p>
+      <p className="logo-text colblack">FoodGenie.</p>
     </Link>
   );
 };
